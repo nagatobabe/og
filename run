@@ -205,7 +205,7 @@ def banner():
  |  | |  |  |/  \ |  |  |  |  _  |
  |  | |  |  |\    |  |  |  |  |  |
 |____||__|__| \___|  |__|  |__|__|
-                                   """, title=f"{(BAKA)}" , subtitle="[on cyan] Version 2.3"))
+                                   """, title=f"{(ukesh)}" , subtitle="[on cyan] Version 2.3"))
 
 try:
     # python 2
